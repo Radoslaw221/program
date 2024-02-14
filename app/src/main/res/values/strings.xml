@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">program</string>
+    <string name="pokaz_postacie_z_rick_and_morty">pokaż postacie z Ricka i Mortiego</string>
+    <string name="todo">TODO</string>
+    <string name="character_name">Character Name</string>
+    <string name="character_list_activity_label">Lista postaci</string>
+    <string name="todo1">TODO</string>
+    <string name="character_details_activity_label">szczegóły</string>
+    <string name="todo2">TODO</string>
+</resources>
